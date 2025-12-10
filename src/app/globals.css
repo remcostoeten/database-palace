@@ -6,7 +6,7 @@
 
 :root {
 	--radius: 0.75rem;
-	` --color-black: oklch(0.05 0.01 240);
+	--color-black: oklch(0.05 0.01 240);
 	--color-white: oklch(0.98 0.005 240);
 	--color-neutral-50: oklch(0.97 0.007 240);
 	--color-neutral-100: oklch(0.94 0.01 240);
