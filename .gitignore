@@ -39,3 +39,6 @@ src-tauri/Cargo.lock
 
 # Project management
 tmp/
+
+.gemini/
+gha-creds-*.json
